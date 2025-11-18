@@ -216,7 +216,12 @@ all_patches/
 
 
 ## Acknowledgement
-We thank the authors of [huggingface diffusers library](https://github.com/huggingface/diffusers) for their code repository.
+
+We thank the authors of the following outstanding open-source repositories for their valuable code and contributions:
+
+- [Hugging Face Diffusers](https://github.com/huggingface/diffusers) – the foundation of our text-to-image pipeline  
+- [P2P: Prompt-to-Perturb](https://github.com/yasamin-med/P2P/tree/main) – pioneering work on text-guided adversarial attacks that greatly inspired this project (CVPR 2025)  
+- [yolov5_adversarial](https://github.com/SamSamhuns/yolov5_adversarial) – excellent reference implementation for physical-world adversarial patch attacks on YOLO detectors  
 
 ## Citation
 ```
