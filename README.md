@@ -5,7 +5,7 @@
     </a>
 </h1>
 
-<img src="./pages/static/images/fig1.png" width="800">
+<img src="./docs/static/images/fig1.png" width="800">
 </div>
 
 <div align="center"> <h3> Abstract </h3>  </div>
@@ -18,7 +18,7 @@ Cutting-edge works have demonstrated that text-to-image (T2I) diffusion models c
 <br>
 
 <div align="center">
-<img src="./pages/static/images/fig2.jpg" width="700">
+<img src="./docs/static/images/fig2.jpg" width="700">
 </div>
 
 ## 💥 News 💥
