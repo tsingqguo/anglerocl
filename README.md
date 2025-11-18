@@ -5,7 +5,7 @@
     </a>
 </h1>
 
-<img src="./docs/fig1.png" width="800">
+<img src="./pages/static/images/fig1.png" width="800">
 </div>
 
 <div align="center"> <h3> Abstract </h3>  </div>
@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-<img src="./docs/fig2.jpg" width="700">
+<img src="./pages/static/images/fig2.jpg" width="700">
 </div>
 
 ## 💥 News 💥
