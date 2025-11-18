@@ -1,5 +1,5 @@
 safetensors==0.5.3
-transformers==4.51.3
+transformers==4.53.0
 accelerate==1.4.0
 diffusers==0.32.2
 opencv-python==4.8.1.78
